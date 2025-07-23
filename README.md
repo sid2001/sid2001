@@ -16,7 +16,7 @@ I'm a passionate computer science student with a deep curiosity in operating sys
 - **Rust** - Systems programming and memory safety
 - **Xv6** - Understanding OS from this amazing [source](https://pdos.csail.mit.edu/6.1810/2024/xv6.html).
 
-### 📄 Professional Experience
+### 📄 Experience
 Check out my detailed resume [here](https://drive.google.com/file/d/18b1_8P_t1DLUX2OeapiX7LsE95lhqgQT/view?usp=sharing)
 
 ## 🛠️ Tech Stack
