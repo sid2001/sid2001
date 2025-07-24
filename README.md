@@ -61,7 +61,7 @@ Check out my detailed resume [here](https://drive.google.com/file/d/18b1_8P_t1DL
 
 ## 🤝 Let's Connect!
 
-I'm always interested in collaborating on exciting projects, especially those involving distributed systems, system design, or innovative web applications. Feel free to reach out!
+Excited to meet new brains and ideas.
 
 <div align="center">
   
